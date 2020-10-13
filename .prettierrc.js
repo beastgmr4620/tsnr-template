@@ -9,5 +9,5 @@ module.exports = {
   quoteProps: 'as-needed',
   jsxBracketSameLine: true,
   arrowParens: 'avoid',
-  parser: 'babel',
+  parser: 'typescript',
 };
